@@ -1,22 +1,12 @@
-/*
-commentaire en css
- */
-
-em{
-    color: red;
-}
-
-   #bulbasaur {
-       font-weight: bold;
-       color: aqua;
-   }
-
-   .bold{
-       font-weight: bold;
-   }
-   .aqua{
-       color : aqua;
-   }
+    em {
+        color : red;
+    }
+    .aqua{
+        color : aqua;
+    }
+    .vert{
+        color : green;
+    }
 
    .img-50 {
        width : 25%;
